@@ -1,4 +1,4 @@
-module sokol_gp
+module sokolgp
 import sokol
 import sokol.gfx
 
