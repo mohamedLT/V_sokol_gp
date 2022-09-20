@@ -4,7 +4,7 @@ a V wrapper for the sokol_gp library
 # Sokol_gp
 Sokol_gp is a 2d rendering library for Sokol that has many optimations to it like batch rendering plus it is super easy to use and setup 
 # install
-`v install mohamedLT.sokolgp
+`v install mohamedLT.sokolgp`
 # supported platforms 
 basically, it runs where Sokol runs 
 for android you can use vab 
